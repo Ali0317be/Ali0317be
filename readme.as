@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliSaad
-- 👀 I’m interested in Web Developement and Designing. 
-- 🌱 I’m currently learning JS & PHP. My area of interest is in Website customizations or developement. 
+- 👀 My area of interest is in Web Developement and Designing. 
+- 🌱 I’m currently learning Python, JS & PHP.
 - 💞️ I’m looking to collaborate on Website design, redesign or fix issues. 
 - 📫 How to reach me via email: personaluseali@gmail.com
 
